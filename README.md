@@ -40,7 +40,8 @@ pip install -r requirements.txt
 python scripts/download_models.py
 
 ```
-
+🏋️ Pretrained Weights
+Model	Download Link(https://cloud.tsinghua.edu.cn/d/a926bbefddfe40fbb041/) 
 
 ⚠️ License
 This implementation is for research purposes only. Commercial use requires written permission. See LICENSE for details.
