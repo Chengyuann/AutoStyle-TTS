@@ -38,3 +38,13 @@ pip install -r requirements.txt
 
 # Download pre-trained models
 python scripts/download_models.py
+
+```
+
+
+⚠️ License
+This implementation is for research purposes only. Commercial use requires written permission. See LICENSE for details.
+
+References
+LLaMA: GitHub 
+Qwen2.5: Technical Report
