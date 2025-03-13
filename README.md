@@ -6,7 +6,7 @@
 ​**[🛠️ Issues]** 
 
 **Official PyTorch implementation of "AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis"**  
-[[Project Page]](https://chengyuann.github.io/AutoStyle-TTS) • [[Demo]](https://autostyle-tts.demo) • [[Colab]](https://colab.research.google.com/github/Chengyuann/AutoStyle-TTS)
+[[Project Page]](https://chengyuann.github.io/AutoStyle-TTS-DEMO)  • [[Colab]](https://colab.research.google.com/github/Chengyuann/AutoStyle-TTS)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Chengyuann/AutoStyle-TTS/main/docs/arch.png" width="800">
