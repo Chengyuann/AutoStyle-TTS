@@ -1,0 +1,350 @@
+[
+  {
+    "speaker": "Speaker1",
+    "text": "What are you talking about?!",
+    "emotion": "excited",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "You made a great decision ,a fantastic decision.",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "You didn't. Anyway, it was like that.",
+    "emotion": "happy",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "We're both married, with kids.",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "Yeah. I can't believe I dated Nicole Kidman.",
+    "emotion": "happy",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "This is fantastic.",
+    "emotion": "excited",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "This is unbelievable. This is unbelievable. It was one of the most awkward moments ever.",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore?",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now?",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "He's always on tour, though. Isn't he constantly, like...",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "Did he not just play a gig New Year's Eve, right?",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "The Canada side, or the New York side?",
+    "emotion": "excited",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it.",
+    "emotion": "neutral",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "Yeah. It's amazing. We got to work on that side.",
+    "emotion": "sad",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "Oh, please. We'll fix it up.",
+    "emotion": "frustrated",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "But where does he play?",
+    "emotion": "excited",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "Have you ever been to Niagara Falls?",
+    "emotion": "excited",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker1",
+    "text": "you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.",
+    "emotion": "happy",
+    "biography": "Please generate a comprehensive biography for the speaker based on the following text:\n\nWhat are you talking about?! You made a great decision,a fantastic decision. You didn't. Anyway, it was like that. We're both married, with kids. Yeah. I can't believe I dated Nicole Kidman. This is fantastic. This is unbelievable. This is unbelievable. It was one of the most awkward moments ever. I can't believe it. You're definitely embarrassed. Yeah. I mean, wow, my gosh. Are you friends with Rick anymore? Well, yeah, you made a much better decision. Keith Urban is so much cooler than I am. He's a rock star. You live in Nashville now? He's always on tour, though. Isn't he constantly, like... Did he not just play a gig New Year's Eve, right? The Canada side, or the New York side? The Canada side is, like, lights, and it's, like, almost like Vegas. It's fun. And the New York side looks like a Lemony Snicket book cover, it's like sad, and, like, trees with no leaves on it. Yeah. It's amazing. We got to work on that side. Oh, please. We'll fix it up. But where does he play? Have you ever been to Niagara Falls? you're feeling a little something.Yeah, yeah. You're feeling a little chemistry.\n\nBiography: Based on the conversation, it appears that speaker MICHAEL is a romantic, playful, and confident individual. He is quick-witted and can think on his feet, as evident in his responses to LINDA's humorous and teasing remarks. MICHAEL is also a bit self-deprecating and can laugh at himself, as seen in his comment about almost getting a \"vat full of miso soup\" for being too aggressive in his dating approach. This suggests that he is not too full of himself and is willing to poke fun at his own mistakes. Furthermore, MICHAEL appears to be a bit of a hopeless romantic, as he is willing to try to win LINDA over with flowers and a romantic gesture, despite her initial",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "Oh, my gosh. I am in shock right now.",
+    "emotion": "neutral",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "You didn't.",
+    "emotion": "happy",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "Yes. I just saw him.",
+    "emotion": "happy",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "I do. Yeah.",
+    "emotion": "neutral",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "He did. In Niagara Falls.",
+    "emotion": "neutral",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "The Canada side.",
+    "emotion": "neutral",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "And you go, What happened? Why is that side so much worse? Canada's side - that's the place to do it.",
+    "emotion": "excited",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "Yeah. I've never been to the New York side.",
+    "emotion": "happy",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "He played it a big show there for about 60,000 people.",
+    "emotion": "neutral",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "I had before.",
+    "emotion": "neutral",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  },
+  {
+    "speaker": "Speaker2",
+    "text": "Don't. We can't even have a conversation.",
+    "emotion": "happy",
+    "biography": "Based on the conversation, it appears that speaker LINDA is a lively and supportive friend. She is enthusiastic and excited about Michael's achievement, congratulating him on his engagement. She is also playful and teasing, as evident from her jokes and teasing comments about Michael's romantic gesture, such as \"You did not\" and \"You got to freak her out.\" This suggests that she is comfortable with Michael and is not afraid to poke fun at him. However, Linda also comes across as a bit dramatic and over-the-top, as seen in her reactions to Michael's engagement and her descriptions of the romantic gesture. She uses phrases like \"Oh, my gosh\" repeatedly, which may indicate that she is a bit of a drama queen. Nevertheless",
+    "text_embedding_shape": [
+      3072
+    ],
+    "biography_embedding_shape": [
+      3072
+    ]
+  }
+]
