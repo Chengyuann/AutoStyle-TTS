@@ -36,8 +36,11 @@ conda create -n asttts python=3.9
 conda activate asttts
 pip install -r requirements.txt
 
-# Download pre-trained models
-python scripts/download_models.py
+#predata process
+
+utils/
+# train
+python scripts/train.sh
 
 ```
 🏋️ Pretrained Weights
