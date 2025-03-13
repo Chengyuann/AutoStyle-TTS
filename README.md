@@ -1,6 +1,9 @@
 # AutoStyle-TTS [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-**[📝 Paper]** | ​**[🤖 Model Zoo]** | ​*[📊 Dataset]* | ​**[🛠️ Issues]** 
+**[📝 Paper]** | ​
+**[🤖 Model Zoo]** | ​
+**[📊 Dataset]** | 
+​**[🛠️ Issues]** 
 
 **Official PyTorch implementation of "AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis"**  
 [[Project Page]](https://chengyuann.github.io/AutoStyle-TTS) • [[Demo]](https://autostyle-tts.demo) • [[Colab]](https://colab.research.google.com/github/Chengyuann/AutoStyle-TTS)
