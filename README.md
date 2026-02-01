@@ -3,14 +3,13 @@
 **[📝 Paper]** | ​
 **[🤖 Model Zoo]** | ​
 **[📊 Dataset]** | 
-​**[🛠️ Issues]** 
+**[🛠️ Issues]** 
 
 **Official PyTorch implementation of "AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis"**  
 [[Project Page]](https://chengyuann.github.io/AutoStyle-TTS-DEMO)  • [[Colab]](https://colab.research.google.com/github/Chengyuann/AutoStyle-TTS)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chengyuann/AutoStyle-TTS/main/docs/arch.png" width="800">
-</p>
+<img width="1842" height="1044" alt="image" src="https://github.com/user-attachments/assets/88e81c3a-c933-4136-84d7-c8e45f14f6df" />
+
 
 ## ✨ Key Features
 - ​**Dynamic Style Matching**  
